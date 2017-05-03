@@ -11,6 +11,5 @@ db
 .project
 .settings
 out
-conf/mail.conf
 conf/evolutions
 documentation/
